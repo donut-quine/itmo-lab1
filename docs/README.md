@@ -20,3 +20,17 @@
 - [Прямоугольник](figures/rectangle.md)
 - [Квадрат](figures/square.md)
 - [Треугольник](figures/triangle.md)
+
+## Тесты
+
+В проекте реализовано unit-тестирование с помощью модуля unittest. Для самостоятельного запуска тестов можно воспользоваться командой:
+
+```cmd
+python -m unittest
+```
+
+или
+
+```cmd
+python3 -m unittest
+```
